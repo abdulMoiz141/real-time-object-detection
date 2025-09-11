@@ -104,12 +104,3 @@ Press q to exit.
 
 🏭 Optimize for real-world, large-scale applications
 
-📂 Project Structure
-
-yolo-webcam-detection/
-│
-├── main.py                 # Main Python script
-├── yolo-Weights/
-│   └── yolov8n.pt          # Pretrained YOLOv8 weights
-├── README.md               # Project documentation
-└── requirements.txt        # Optional: list of packages
